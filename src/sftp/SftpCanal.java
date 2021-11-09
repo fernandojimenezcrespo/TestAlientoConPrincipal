@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package sftp;
+package sftp;  
   
 import com.jcraft.jsch.Channel;
 import com.jcraft.jsch.ChannelSftp;
